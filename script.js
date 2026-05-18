@@ -31,5 +31,5 @@ btnNo.addEventListener('mouseout', () => {
 
 // Función para el botón "Sí" (puedes personalizar qué hacer aquí, como mostrar un mensaje)
 btnYes.addEventListener('click', () => {
-    alert('¡Genial! Te confirmo detalles por dm :). ☕❤️');
+    alert('¡Genial! Te confirmo detalles por dm. ☕❤️');
 });
